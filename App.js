@@ -1,7 +1,7 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
+ * Solar System sample app
+ * https://github.com/kalyanibhatraju/SolarSystem/
+ * @kalyanibhatraju
  */
 
 import React, { Component } from 'react';
